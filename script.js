@@ -112,11 +112,11 @@ const allFoods = foods.concat(newfoods)
 //     console.log(x, "I love you")
 //     x++
 // }
- const pin ="1234"
+//  const pin ="1234"
 
- let userPin = prompt("Please enter your pin")
-let count = 0
- while(userPin !== pin && count < 3){
-    count++
-    userPin = prompt("Please enter correct pin")
- }
+//  let userPin = prompt("Please enter your pin")
+// let count = 0
+//  while(userPin !== pin && count < 3){
+//     count++
+//     userPin = prompt("Please enter correct pin")
+//  }
