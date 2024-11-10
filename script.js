@@ -120,3 +120,7 @@ const allFoods = foods.concat(newfoods)
 //     count++
 //     userPin = prompt("Please enter correct pin")
 //  }
+
+for(let j = 0; j < foods.length; j++){
+    console.log(foods[j])
+}
